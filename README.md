@@ -1,6 +1,6 @@
 # Predicting_Life_Expectancy
 
-<p align="center">
+<p align="justify">
   <img width="700" height="600" src="https://github.com/jankomah/Predicting_Life_Expectancy/blob/master/images/Screenshot%202020-03-23%20at%2015.07.30.png">
 </p>
 
@@ -8,15 +8,16 @@
 # <a id='7'>Increase the life-span by taking care of these factors</a>
 
 # <a id='7'>Summary</a>
-We used the dataset County Health Data gathered by The Robert Wood Johnson Foundation and University of Wisconsin. link. We analysed the dataset to find out about biggest contributers to longer life-span and compared county where people live longer compared to other counties. Furthermore, we run a machine learning model to find the best predictors for life expectancy and furthermore we can use this model for government officials to see the lifespan effect of their work for the future.
+We used the dataset County Health Data gathered by The Robert Wood Johnson Foundation and University of Wisconsin. [link]
+(https://www.rwjf.org/en/how-we-work/grants-explorer/featured-programs/county-health-ranking-roadmap.html)
+We analysed the dataset to find out about biggest contributers to longer life-span and compared county where people live longer compared to other counties. Furthermore, we run a machine learning model to find the best predictors for life expectancy ; furthermore , we can use this model for government officials to see the lifespan effect of their work for the future.
 
 
 # <a id='7'>Outline</a>
-Data gathering and preprocessing
-Data Manipulation and Analysis
-Feature Selection and Eliminiation
-Model making and iterative model selection
-
+Data gathering and preprocessing.
+Data Manipulation and Analysis.
+Feature Selection and Eliminiation.
+Model building and iteractive model selection.
 
 
 # <a id='7'>Conclusion</a>
