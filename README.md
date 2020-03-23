@@ -1,5 +1,9 @@
 # Predicting_Life_Expectancy
 
+<p align="center">
+  <img width="700" height="600" src="https://github.com/jankomah/Predicting_Life_Expectancy/blob/master/images/Screenshot%202020-03-23%20at%2015.07.30.png">
+</p>
+
 
 # <a id='7'>Increase the life-span by taking care of these factors</a>
 
@@ -17,3 +21,7 @@ Model making and iterative model selection
 
 # <a id='7'>Conclusion</a>
 We have looked at county's and their health indexes however, by this approach we eliminated some of the health factor that are actually important for personal health but not so common in society in general like(obesity). Further analysis is needed and we should adjust some of the columns with their weight in order to not loose some valuable information. In conclusion, we have found that if government pushes its citizens to make sports and build facilities for sports we can increase the lifespan.
+
+<p align="center">
+  <img width="700" height="600" src="https://github.com/jankomah/Predicting_Life_Expectancy/blob/master/images/Screenshot%202020-03-23%20at%2015.06.22.png">
+</p>
