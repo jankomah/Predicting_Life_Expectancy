@@ -1,6 +1,6 @@
 # Predicting_Life_Expectancy
 
-<p align="justify">
+<p align="left|right|center|justify">
   <img width="700" height="600" src="https://github.com/jankomah/Predicting_Life_Expectancy/blob/master/images/Screenshot%202020-03-23%20at%2015.07.30.png">
 </p>
 
