@@ -1,7 +1,7 @@
 # Predicting_Life_Expectancy
 
 <p align="left|right|center|justify">
-  <img width="700" height="600" src="https://github.com/jankomah/Predicting_Life_Expectancy/blob/master/images/Screenshot%202020-03-23%20at%2015.07.30.png">
+  <img width="700" height="600" src="https://github.com/jankomah/Predicting_Life_Expectancy/blob/master/images/https://github.com/jankomah/Predicting_Life_Expectancy/blob/master/images/Screenshot%202020-03-23%20at%2015.47.05.png.png">
 </p>
 
 
