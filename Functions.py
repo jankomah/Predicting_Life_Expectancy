@@ -21,14 +21,6 @@ def get_nom(df):
             nom.append(x)
     return nom[2:] # no need for feature id and age but customise according to df
 
-"""Function for OneHotEncoding"""
-def encode_features(data_set, feature_names):
-    for feature_name in feature_names:
-        le = LabelEncoder()
-        le.fit(data_set[feature_name])
-        encoded_column = le.transform(data_set[feature_name])
-        data_set[feature_name] = encoded_column
-    return data_set
 
 
 def variance_inflation_factor(feature_list, DataFrame):
