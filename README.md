@@ -9,18 +9,10 @@ Summary map:
 
 
 
-
-
-
+# <a id='7'>Increase the life-span by taking care of these factors</a>
 
 Map figures:
 ![Repo List](images/image3.png)
-
-
-
-
-
-# <a id='7'>Increase the life-span by taking care of these factors</a>
 
 
 # <a id='7'>Summary</a>
