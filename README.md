@@ -8,7 +8,12 @@ Summary map:
 
 
 
-Summary map:
+
+
+
+
+
+Map figures:
 ![Repo List](images/image3.png)
 
 
@@ -16,6 +21,7 @@ Summary map:
 
 
 # <a id='7'>Increase the life-span by taking care of these factors</a>
+
 
 # <a id='7'>Summary</a>
 We used the dataset County Health Data gathered by The Robert Wood Johnson Foundation and University of Wisconsin. [link]
